@@ -1,0 +1,20 @@
+[
+    {"text": "Qn 1: What is Science?", 
+        "feedback": "Yes it is",
+        "answers": [{"text": "Study of living things", "correct": true}, {"text": "Study of food", "false": true}, {"text": "Study of God", "correct": false}]},
+    {"text": "Qn 2: What is SST?", 
+        "feedback": "Yes SST",
+        "answers": [{"text": "Study of politics", "correct": false}, {"text": "Study of man and his surroundings", "correct": true}, {"text": "Study of life", "correct": false}]},
+    {"text": "Qn 3: What is 1 + 2?", 
+        "feedback": "Yes it is",
+        "answers": [{"text": "8", "correct": false}, {"text": "3", "correct": true}, {"text": "787", "correct": false}]},
+    {"text": "Qn 3: What is 1 + 2?", 
+        "feedback": "Yes it is",
+        "answers": [{"text": "8", "correct": false}, {"text": "3", "correct": true}, {"text": "787", "correct": false}]},
+    {"text": "Qn 3: What is 1 + 2?", 
+        "feedback": "Yes it is",
+        "answers": [{"text": "8", "correct": false}, {"text": "3", "correct": true}, {"text": "787", "correct": false}]}
+
+
+
+]
